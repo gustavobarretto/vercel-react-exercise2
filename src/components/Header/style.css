@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    margin: 30px;
+    gap: 30px;
+}
+
+nav ul li {
+    list-style-type: none;
+    color: white;
+    border-bottom: white solid;
+    padding: 0 5px;
+}
+
+.logo-header {
+    margin: 10px;
+    height: 80px;
+    width: 80px;
+}

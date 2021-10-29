@@ -1,0 +1,21 @@
+h3 p {
+    color: white;
+    letter-spacing: 10px;
+    font-size: 50px;
+}
+
+button {
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Righteous', cursive;
+    
+}
+
+button:hover {
+    transform: scale(1.2);
+    transition: .5s transform ease-in-out;
+}
+
